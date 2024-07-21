@@ -43,7 +43,7 @@
 -   NIC               导航完整性类别，导航数据的总体完整性级别
 
 
-'''
+```
 {
     "class": "ADSBDATA",     //数据种类
     "meta": "ADSBAIRCRAFT",  //数据类型
@@ -79,9 +79,9 @@
     "nicBC": -1,
     "NIC": -1
 }
-'''
+```
 
-'''
+```
 "class": "ADSBDATA",
     "meta": "ADSBAIRCRAFT",
     "icao": 7871915,
@@ -116,4 +116,4 @@
     "nicA": 0,
     "nicBC": 0,
     "NIC": 8
-'''
+```
