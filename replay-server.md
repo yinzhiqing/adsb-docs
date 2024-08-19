@@ -27,7 +27,7 @@
 | pause | 暂停回放 | 无 | {"type":"pause"} |
 |recover | 恢复回放 | 无 | {"type":"recover"} |
 | stop | 停止回放 | 无 | {"type":"stop"} |
-| speed | 设置回放速度 | speed | {"type":"speed","speed":2} |
+| speed | 设置回放速度; +n/-n, n为整数，正数表示快进，负数表示慢放 | speed | {"type":"speed","speed":2} |
 
 # 返回值
 
